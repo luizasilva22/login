@@ -3,7 +3,7 @@ body{
     background-color: linear-gradient(45deg,cyan,yellow);
 }
 div{
-    background-color: rgb(139, 0, 127);
+    background-color: rgb(153, 33, 143);
     position:absolute;
     top :50%;
     left:50%;
